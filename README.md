@@ -22,4 +22,4 @@ Instagram: https://www.instagram.com/ki2_ak
 
 LinkedIn: https://www.linkedin.com/in/Srikrishnalaxetti
 
-Git: https://github.com/Kittu25699/Clinical-healthdata-by-sql
+Git: https://github.com/Kittu2599/Clinical-healthdata-by-sql
