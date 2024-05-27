@@ -10,12 +10,16 @@ This is my first SQL project. I used a clinical trial dataset. Here I have start
 # TOOLS USED
 
 Microsoft SQL server
+
 SQL Server Management Studio (SSMS)
+
 ** You can use any SQL platform to perform your project; this is a personal preference.
 
 
 # SOCIAL HANDLE
 
 Instagram: https://www.instagram.com/ki2_ak
+
 LinkedIn: https://www.linkedin.com/in/Srikrishnalaxetti
+
 Git: https://github.com/trinathpanda04/Clinical-healthdata-by-sql
